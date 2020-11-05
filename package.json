@@ -1,0 +1,20 @@
+{
+  "name": "py-practice-thorn_and_company",
+  "version": "1.0.0",
+  "description": "<img src=\"https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png\" style=\"margin: 0;\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshine274/py-practice-thorn_and_company.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshine274/py-practice-thorn_and_company/issues"
+  },
+  "homepage": "https://github.com/sunshine274/py-practice-thorn_and_company#readme"
+}
